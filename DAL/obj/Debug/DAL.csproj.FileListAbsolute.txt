@@ -1,0 +1,16 @@
+C:\Users\ufuk.demir\source\repos\TamirHaneApp\DAL\bin\Debug\DAL.dll.config
+C:\Users\ufuk.demir\source\repos\TamirHaneApp\DAL\bin\Debug\DAL.dll
+C:\Users\ufuk.demir\source\repos\TamirHaneApp\DAL\bin\Debug\DAL.pdb
+C:\Users\ufuk.demir\source\repos\TamirHaneApp\DAL\bin\Debug\Domains.dll
+C:\Users\ufuk.demir\source\repos\TamirHaneApp\DAL\bin\Debug\EntityFramework.dll
+C:\Users\ufuk.demir\source\repos\TamirHaneApp\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ufuk.demir\source\repos\TamirHaneApp\DAL\bin\Debug\Domains.pdb
+C:\Users\ufuk.demir\source\repos\TamirHaneApp\DAL\bin\Debug\EntityFramework.xml
+C:\Users\ufuk.demir\source\repos\TamirHaneApp\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ufuk.demir\source\repos\TamirHaneApp\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\ufuk.demir\source\repos\TamirHaneApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ufuk.demir\source\repos\TamirHaneApp\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ufuk.demir\source\repos\TamirHaneApp\DAL\obj\Debug\DAL.dll
+C:\Users\ufuk.demir\source\repos\TamirHaneApp\DAL\obj\Debug\DAL.pdb
+C:\Users\ufuk.demir\source\repos\TamirHaneApp\DAL\obj\Debug\DAL.Migrations.Init.resources
+C:\Users\ufuk.demir\source\repos\TamirHaneApp\DAL\obj\Debug\DAL.csproj.GenerateResource.cache

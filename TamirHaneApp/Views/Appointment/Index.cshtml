@@ -1,0 +1,50 @@
+﻿@model IEnumerable<Domains.Appointment>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Car.User)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Car.User.Telephone)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Car.Plate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Datetime)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Car.User.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Car.User.Telephone)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Car.Plate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Datetime)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+        </td>
+    </tr>
+}
+
+</table>

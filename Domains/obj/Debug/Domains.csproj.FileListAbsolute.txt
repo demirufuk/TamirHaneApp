@@ -1,0 +1,6 @@
+C:\Users\ufuk.demir\source\repos\TamirHaneApp\Domains\bin\Debug\Domains.dll
+C:\Users\ufuk.demir\source\repos\TamirHaneApp\Domains\bin\Debug\Domains.pdb
+C:\Users\ufuk.demir\source\repos\TamirHaneApp\Domains\obj\Debug\Domains.csprojAssemblyReference.cache
+C:\Users\ufuk.demir\source\repos\TamirHaneApp\Domains\obj\Debug\Domains.csproj.CoreCompileInputs.cache
+C:\Users\ufuk.demir\source\repos\TamirHaneApp\Domains\obj\Debug\Domains.dll
+C:\Users\ufuk.demir\source\repos\TamirHaneApp\Domains\obj\Debug\Domains.pdb
